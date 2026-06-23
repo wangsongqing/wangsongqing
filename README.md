@@ -1,7 +1,5 @@
-🏭 Warehouse Management System Engineer
+### Hi World 👋
 
-⚙️ PHP | Laravel | Go | Java | Spring Boot | Vue
 
-📈 Performance Optimization
-
-🤖 AI Assisted Development
+[![wangsongiqng's github stats](https://github-readme-stats.vercel.app/api?username=wangsongqing&show_icons=true&theme=)](https://github.com/wangsongqing)
+![language](https://github-readme-stats.vercel.app/api/top-langs/?username=wangsongqing&layout=compact)
