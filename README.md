@@ -1,5 +1,3 @@
-### Hi World 👋
-
-[![Songqing's GitHub stats](https://github-readme-stats.vercel.app/api?username=wangsongqing&show_icons=true&theme=transparent&hide_border=true)](https://github.com/wangsongqing)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wangsongqing&layout=compact&theme=transparent&hide_border=true&langs_count=8&hide=html,css,blade,scss)](https://github.com/wangsongqing)
+<p align="center">
+  <img src="https://metrics.lecoq.io/wangsongqing?template=classic&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&config.timezone=Asia%2FShanghai" alt="Metrics" />
+</p>
